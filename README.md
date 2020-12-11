@@ -1,7 +1,7 @@
 # webscraper-osmosis
 A Node.js Webscraper built using Osmosis (npm package)
 
-Read more about this project on my [blog](http://timothynjagi.github.io/blog)
+Read more about this project on my [blog](http://timonjagi.co.ke/home/#blog)
 
 # Instructions
 
